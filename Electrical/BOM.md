@@ -1,0 +1,15 @@
+| Ref. | Qty. | Part / specification | Manufacturer part number | DigiKey Canada order number | Unit cost | Extended cost | DigiKey link |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| C1–C4 | 4 | 1 µF, ±20%, 10 V, X7R, 1206 | Cal-Chip GMC31X7R105M10NT | 4713-GMC31X7R105M10NTCT-ND | $0.31 | $1.24 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/cal-chip-electronics-inc/GMC31X7R105M10NT/27516087) |
+| C5–C22 | 18 | 0.1 µF, 50 V, X7R, 0805 | KEMET C0805C104K5RACTU | 399-C0805C104K5RACTUCT-ND | $0.15 | $2.65 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/kemet/C0805C104K5RACTU/411169) |
+| C23–C26 | 4 | 10 µF, 10 V, X7R, 0805 | KEMET C0805C106K8RACAUTO | 39-15687-1-ND | $0.89 | $3.56 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/kemet/C0805C106K8RACTU/3317617) |
+| C27 | 1 | 22 µF ±20% 25V Ceramic Capacitor X5R 1206 (3216 Metric) | YAGEO CC1206MKX5R8BB226 | CC1206MKX5R8BB226 | $0.60 | $0.60 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/taiyo-yuden/TMK316BBJ226ML-T/3660084) |
+| D1–D8 | 8 | 4 × 2 mm addressable RGB side-view LED, 5 V | Harvatek T4203GRB-12C-61013TU1930 | 3147-T4203GRB-12C-61013TU1930CT-ND | $1.30 | $10.40 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/harvatek-corporation/T4203GRB-12C-61013TU1930/18997142) |
+| J1–J2 | 2 | 2 × 3, 2.00 mm pitch, female through-hole socket | Sullins NPPN032AFCN-RC | S5750-03-ND | $1.23 | $2.46 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/sullins-connector-solutions/NPPN032AFCN-RC/804788) |
+| H1–H2 | 2 | 2 × 3, 2.00 mm pitch, male straight through-hole header | Sullins NRPN032PAEN-RC | S5801-03-ND | $0.34 | $0.68 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/sullins-connector-solutions/NRPN032PAEN-RC/804955) |
+| MAG1–MAG3 | 3 | 3-axis I²C magnetic sensor, PG-TSOP-6 | Infineon TLV493DA1B6HTSA2 | TLV493DA1B6HTSA2CT-ND | $1.33 | $3.99 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/infineon-technologies/TLV493DA1B6HTSA2/5887140) |
+| R1–R2 | 2 | 1.2 kΩ, ±1%, 0805 | Stackpole RMCF0805FT1K20 | RMCF0805FT1K20CT-ND | $0.16 | $0.32 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805FT1K20/2418296) |
+| R3–R4 | 2 | 10 kΩ, ±1%, 0805 | Stackpole RMCF0805FT10K0 | RMCF0805FT10K0CT-ND | $0.16 | $0.32 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676) |
+| RN1 | 1 | Four isolated 10 kΩ ±5% resistor elements, 1206 network | Bourns CAY16-103J4LF | CAY16-103J4LFCT-ND | $0.16 | $0.16 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/bourns-inc/CAY16-103J4LF/431579) |
+| S1–S4 | 4 | SPST-NO tactile switch, side-actuated, right-angle SMT | Same Sky TS32-7-35-BK-160-RA-SMT-TR | 2223-TS32-7-35-BK-160-RA-SMT-TRCT-ND | $0.45 | $1.80 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices/TS32-7-35-BK-160-RA-SMT-TR/26253029) |
+| U1–U4 | 4 | 1 A current-limited high-side load switch, TSOT-25, active-low enable | Diodes Inc. AP22816BKEWT-7 | 31-AP22816BKEWT-7CT-ND | $0.44 | $1.76 | [DigiKey.ca](https://www.digikey.ca/en/products/detail/diodes-incorporated/AP22816BKEWT-7/15286704) |
